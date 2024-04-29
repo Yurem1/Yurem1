@@ -11,12 +11,3 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-### Summary
-Hello 👋, I'm Ever Tovar, but you can call me Yurem. I'm studying computer science in high school. I have been coding since 2020 🤧. Web and mobile development is my main focus and every day I'm aspiring to gain greater knowledge 🧐.
-
-### Concrete understanding & experience in:
-- Web Development 💻
-- Mobile Development 📱
-- Node.js ⚙️
-- Expo, Next.js & more 🙌
